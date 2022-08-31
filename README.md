@@ -1,4 +1,4 @@
-<h1 align="center"> FIFA Soccer Players With Pokemon Notebook  </h1>
+<h1 align="center"> Comex Exportaçao 2021  </h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]() 
 
@@ -14,7 +14,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 1. Instalação do Python
 2. Clone the repo
    ```sh
-   git clone https://github.com/1colete/soccer_players_pokemons.git
+   git clone https://github.com/1colete/exportacao_comex.git
    ```
 3. Criar um ambiente virtual e instalar Requirements.txt
    ```sh
@@ -44,5 +44,5 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## Licença
 
-Esse projeto está sob licença MIT. Veja o arquivo [LICENÇA](https://github.com/1colete/soccer_players_pokemons/blob/main/LICENSE.md) para mais detalhes.
+Esse projeto está sob licença MIT. Veja o arquivo [LICENÇA](https://github.com/1colete/exportacao_comex/blob/main/LICENSE.md) para mais detalhes.
 
